@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\xpchua\\Desktop\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\xpchua\\Desktop\\android-BluetoothChat-master\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xpchua\\Desktop\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\release\\menu\\bluetooth_chat.xml",
+        "source": "C:\\Users\\xpchua\\Desktop\\android-BluetoothChat-master\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    }
+]
